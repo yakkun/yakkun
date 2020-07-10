@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, Yakkun is here 👋
 
-<!--
-**yakkun/yakkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me, Yasuyoshi IWAICHI. Just call me YAKKUN.
 
-Here are some ideas to get you started:
+#### Found me :eyes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [yakkun.dev](https://yakkun.dev)
+- Google: iwaichi.yasuyoshi@gmail.com
+- Facebook: [@yakkun](https://facebook.com/yakkun)
+- Twitter: [@iwaichi](https://twitter.com/iwaichi) and more...?
+- LinkedIn: [yakkun](https://www.linkedin.com/in/yakkun/)
+- Japan Local
+  - Hatena: [id:YAK](https://profile.hatena.ne.jp/YAK/)
+  - Wantedly: https://www.wantedly.com/users/6569
