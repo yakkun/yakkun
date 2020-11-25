@@ -11,4 +11,4 @@ Me, Yasuyoshi IWAICHI. Just call me YAKKUN.
 - LinkedIn: [yakkun](https://www.linkedin.com/in/yakkun/)
 - Japan Local
   - Hatena: [id:YAK](https://profile.hatena.ne.jp/YAK/)
-  - Wantedly: https://www.wantedly.com/users/6569
+  - Wantedly: [yakkun](https://www.wantedly.com/id/yakkun)
