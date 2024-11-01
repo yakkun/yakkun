@@ -7,7 +7,7 @@ Me, Yasuyoshi IWAICHI. Just call me YAKKUN.
 - [yakkun.dev](https://yakkun.dev)
 - Google: iwaichi.yasuyoshi@gmail.com
 - Facebook: [@yakkun](https://facebook.com/yakkun)
-- Twitter: [@iwaichi](https://twitter.com/iwaichi) and more...?
+- X: [@iwaichi](https://x.com/iwaichi) and more...?
 - LinkedIn: [yakkun](https://www.linkedin.com/in/yakkun/)
 - Japan Local
   - Hatena: [id:YAK](https://profile.hatena.ne.jp/YAK/)
